@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-<!--
+- 🔭 I’m currently working on [Komodo OS](github.com/komodo-os-rom) and my kernel see on may repository
+- 🌱 I’m currently learning all code maybe 😂
+
 **Kry9toN/Kry9toN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
