@@ -1,3 +1,1 @@
-<p align="center"><strong>Welcome to my github profile.</strong></p>
-<p align="center"><img width="80" src="https://github.githubassets.com/images/mona-whisper.gif"></p>
-<p align="center">Thank you for visiting</p>
+![Fiqri Ardyansyah's github](https://github-readme-stats.vercel.app/api?username=fiqri19102002&show_icons=true&hide_border=true)
