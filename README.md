@@ -14,5 +14,6 @@
 <p><strong>Join us on Telegram 👇 </strong></p>
 
 [![STRIX Kernel Release](https://img.shields.io/badge/STRIX%20Kernel%20Release-FF0000?style=flat&logo=telegram)](https://t.me/strix_kernel)
-[![STRIX Kernel Release](https://img.shields.io/badge/STRIX%20%7C%20Discussion-FF0000?style=flat&logo=telegram)](https://t.me/strix_discussion)
+[![STRIX kernel nightly CI](https://img.shields.io/badge/STRIX%20kernel%20nightly%20CI-FF0000?style=flat&logo=telegram)](https://t.me/strix_nightly_ci)
+[![STRIX | Discussion](https://img.shields.io/badge/STRIX%20%7C%20Discussion-FF0000?style=flat&logo=telegram)](https://t.me/strix_discussion)
 
