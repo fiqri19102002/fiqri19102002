@@ -3,7 +3,7 @@
 ![Fiqri Ardyansyah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fiqri19102002&layout=compact&show_icons=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqri19102002&layout=compact&show_icons=true&hide_border=false)](https://github.com/fiqri19102002)
 
-- 🔭 I’m currently working on [![STRIX kernel](http://img.shields.io/static/v1?label=STRIX&message=kernel&color=FF0000)](https://github.com/STRIX-Project)
+- 🔭 I’m currently working on [![STRIX Project](http://img.shields.io/static/v1?label=STRIX&message=Project&color=FF0000)](https://github.com/STRIX-Project)
 - 🌱 I’m currently learning Android kernel Linux.
 - 🤔 I’m looking for help with Search Engine.
 - 📫 How to reach me: [![『Unknown Name』](https://img.shields.io/badge/%E3%80%8EUnknown%20Name%E3%80%8F-Telegram-00BFFF?style=flat&logo=telegram)](https://t.me/unknown_name123)
