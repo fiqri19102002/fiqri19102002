@@ -12,7 +12,7 @@
 
 - I maintain [![STRIX kernel](http://img.shields.io/static/v1?label=STRIX&message=kernel&color=FF0000)](https://github.com/STRIX-Project/STRIX_kernel_xiaomi-sdm660) for Xiaomi Redmi Note 5 / Pro (whyred) and Xiaomi Redmi Note 6 Pro (tulip) devices.
 
-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fiqri19102002)
+- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fiqri19102002) on my github profile.
 
 <p><strong>Join us on Telegram 👇 </strong></p>
 
